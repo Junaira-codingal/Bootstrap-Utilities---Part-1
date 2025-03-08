@@ -1,0 +1,6 @@
+th:hover {
+  font-weight: bold;
+  color: rgb(171, 14, 75);
+  text-decoration: underline;
+  font-size: 20px;
+}
